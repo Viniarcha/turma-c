@@ -1,0 +1,2 @@
+# turma-c
+pensamento computacional 
